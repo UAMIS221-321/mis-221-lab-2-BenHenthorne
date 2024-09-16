@@ -1,0 +1,14 @@
+/Users/benhenthorne/Documents/LabWork/bin/Debug/net8.0/LabWork
+/Users/benhenthorne/Documents/LabWork/bin/Debug/net8.0/LabWork.deps.json
+/Users/benhenthorne/Documents/LabWork/bin/Debug/net8.0/LabWork.runtimeconfig.json
+/Users/benhenthorne/Documents/LabWork/bin/Debug/net8.0/LabWork.dll
+/Users/benhenthorne/Documents/LabWork/bin/Debug/net8.0/LabWork.pdb
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.AssemblyInfoInputs.cache
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.AssemblyInfo.cs
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.csproj.CoreCompileInputs.cache
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.dll
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/refint/LabWork.dll
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.pdb
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/LabWork.genruntimeconfig.cache
+/Users/benhenthorne/Documents/LabWork/obj/Debug/net8.0/ref/LabWork.dll
